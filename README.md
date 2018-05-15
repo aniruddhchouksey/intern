@@ -1,3 +1,10 @@
+###################################
+this project is created by aniruddh 
+the base file is in src folder index.js
+the file system is created with react specifications
+so to check react working go to the heroku page and try the inspector 
+####################################
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
